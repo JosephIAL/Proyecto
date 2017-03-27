@@ -82,7 +82,7 @@ background-color:white;
 }
 </style>
 <!--footer -->
-<div id="footer">
+<div id="footer" style='background-color:black;'>
 			<section class="container">
 				<header class="major">
 					<h2>Connect with us</h2>
